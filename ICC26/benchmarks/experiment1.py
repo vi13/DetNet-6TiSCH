@@ -20,7 +20,7 @@ HYPER_PERIOD = 100
 
 ITERATIONS = [0, 60]
 
-TIME_LIMIT = 120
+TIME_LIMIT = 1200
 SOLVER = [Solver.separate_energy,
           Solver.separate_tx,
           Solver.jras]
