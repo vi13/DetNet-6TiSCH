@@ -1,8 +1,8 @@
 import time
 
-from ICC26.optimizers.routing import solve_routing
-from ICC26.optimizers.scheduler import solve_scheduling
-from ICC26.optimizers.JRaS import solve_jras
+from ICC26.models.routing import solve_routing
+from ICC26.models.scheduler import solve_scheduling
+from ICC26.models.JRaS import solve_jras
 
 
 class Solver:
