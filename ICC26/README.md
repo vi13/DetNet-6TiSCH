@@ -14,6 +14,6 @@ The dataset collected for the experiments is also available on Zenodo:
 
 ## 🚀 Getting Started
 
-1. Install the required dependencies (see [`requirements.txt`](./requirements.txt)).  
+1. Install the required dependencies (see [`requirements.txt`](./requirements.txt)). This was tested on Python 3.13.
 2. Run one of the two experiment scripts from the `benchmarks/` folder.  
    The results will be stored automatically in the `data/` directory.
